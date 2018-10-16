@@ -1,3 +1,10 @@
 function chat
 {
+	chat hot fix
+	this is hot fix
+}
+
+funciton chat2
+{
+	333333
 }
