@@ -7,4 +7,6 @@ function chat
 funciton chat2
 {
 	333333
+	some wrong
+	222222
 }
