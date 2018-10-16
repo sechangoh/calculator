@@ -1,5 +1,6 @@
 int add(int, int);
 int sub(int, int);
+int div(int, int);
 
 int main(int argc, char* argv[])
 {
@@ -16,6 +17,9 @@ int main(int argc, char* argv[])
 			break;
 		case '-':
 			c = sub(a, b);
+			break;
+		case '/':
+			c = div(a, b);
 			break;
 	}
 	printf("result:%d", c);
